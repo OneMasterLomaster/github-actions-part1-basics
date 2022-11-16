@@ -1,8 +1,8 @@
-#--------------------------------------
+#---------------------------------------
 # GitHub Action Part-1 Basics
 #
 #Copyleft (c) by Sergey Polyanskiy 2022
-#--------------------------------------
+#---------------------------------------
 name: My-GitHubActions-Basics
 env:
   APPLICATION_NAME: "MyFlask"
