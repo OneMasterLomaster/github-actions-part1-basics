@@ -22,7 +22,7 @@ jobs:
       run : echo "Hello World"
       
     - name: Execute few comands
-      run: 
+      run: |
         echo "Hello Message1"
         echo "Hello Message2"
         echo "Aplication name is ${{ env.APPLICATION_NAME }}"
